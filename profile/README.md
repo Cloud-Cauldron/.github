@@ -1,6 +1,6 @@
 ## Hi there. We're Cloud Cauldron Limited👋
 
-## 🧙 We're a small UK consultancy helping organizations adopt DevOps and Cloud Computing best practices.
+### 🧙 We're a small UK consultancy helping organizations adopt DevOps and Cloud Computing best practices.
 
 ### We specialise in:
   - Cloud Infrastructure as code.
