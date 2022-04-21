@@ -1,12 +1,15 @@
 ## Hi there 👋
 
-<!--
+### 🧙 Cloud Cauldron is a small consultancy helping Enterprise organizations adopt DevOps and Cloud Computing.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### We specialise in:
+  - Cloud Infrastructure as code.
+  - Cloud migration and adoption.
+  - Enterprise DevSecOps and continuous integration and delivery.
+  - Docker and container platforms.
+  - Microservices and architectural evolution.
+  - Observability (logging, metrics, events, tooling, etc).
+  - AWS Lambda and serverless.
+  - Site reliability engineering and Operational support.
+  - Database Administration.
+  - And more!
